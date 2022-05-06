@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Saf Abid a Tunisian Software Engineering Student.
+I’m Safa Abid a Tunisian Software Engineering Student.
 
 👀 I’m interested in IT.
 
