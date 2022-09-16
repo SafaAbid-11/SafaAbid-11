@@ -11,7 +11,8 @@ I’m Safa Abid a Tunisian Software Engineering Student.
 📫 How to reach me safaabid.12@gmail.com
 
 Connect with me:
-linkedin.com/in/safa-abid/ 
+      ![download](https://user-images.githubusercontent.com/83448722/190695939-49dee314-60d0-4861-a989-e0c1214bb59c.png)
+
 Languages and Tools:
 
 ![javascript-original](https://user-images.githubusercontent.com/83448722/190692239-10b7e1cf-9db1-4eb3-b571-fa8f0f3e5d7d.svg)
