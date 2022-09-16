@@ -1,36 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Safa Abid</h1>
+<h3 align="center">A Software Engineering Student from Tunisia.</h3>
 
-I’m Safa Abid
+- 🔭 I’m currently working on **mobile development.**
 
-A Software Engineering Student from Tunisia.
+- 🌱 I’m currently learning **GraphQl ,Devops**
 
-👀 I’m interested in IT.
+- 👯 I’m looking for **an end of studies internship.**
 
-🔭 I’m currently working on mobile development.
+- 💬 Ask me about **React JS,node js,React Native**
 
-👯 I’m looking for an end of studies internship.
+- 📫 How to reach me **safaabid.12@gmail.com**
 
-💬 Ask me about React JS,node js,React Native
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/safa-abid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safa-abid/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/safa.abid.712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/safa.abid.712" height="30" width="40" /></a>
+</p>
 
-📫 How to reach me safaabid.12@gmail.com
-
-Connect with me:
-      ![download](https://user-images.githubusercontent.com/83448722/190695939-49dee314-60d0-4861-a989-e0c1214bb59c.png)
-
-Languages and Tools:
-![cplusplus-original](https://user-images.githubusercontent.com/83448722/190698178-aba23111-0601-4a27-bad4-f7b6310fd886.svg)
-
-![javascript-original](https://user-images.githubusercontent.com/83448722/190692239-10b7e1cf-9db1-4eb3-b571-fa8f0f3e5d7d.svg)
-![html5-original-wordmark](https://user-images.githubusercontent.com/83448722/190692864-4ee7c6a0-dca5-448b-90e4-84f0b4fbab37.svg)
-![css3-original-wordmark](https://user-images.githubusercontent.com/83448722/190692872-250355e9-8f0a-4391-8f37-1ae776c53b7f.svg)
-![react-original-wordmark](https://user-images.githubusercontent.com/83448722/190693070-d48ddfc8-0eaf-4c34-aa53-0058fb1ce5f5.svg)
-
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667](https://user-images.githubusercontent.com/83448722/190692898-7c69b183-e6f3-4e98-a23c-93b7657e736b.svg)
-![java-original](https://user-images.githubusercontent.com/83448722/190692913-b0bd4926-e5ee-4be0-b6b7-7a45a0857c48.svg)
-![c-original](https://user-images.githubusercontent.com/83448722/190692973-9e4f6604-1fef-4ea1-9c3d-5357df0af0de.svg)
-![oracle-original](https://user-images.githubusercontent.com/83448722/190693004-417ee8ba-932d-4b90-a6e7-5852c8a855a3.svg)
-![mysql-original-wordmark](https://user-images.githubusercontent.com/83448722/190693015-b288f9f1-2a8c-4818-b535-067e34bf695c.svg)
-![python-original](https://user-images.githubusercontent.com/83448722/190693043-07dc4e7d-1a2d-492a-aafa-a23cbf1c0ac9.svg)
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667](https://user-images.githubusercontent.com/83448722/190693054-52357d25-cbd5-4842-9d3c-7a739565aae5.svg)
-![mysql-original-wordmark](https://user-images.githubusercontent.com/83448722/190693085-ed6e61fd-0291-465c-af8e-147ae04ba0aa.svg)
-!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
