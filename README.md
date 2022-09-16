@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-I’m Safa Abid a Tunisian Software Engineering Student.
+I’m Safa Abid
+
+A Software Engineering Student from Tunisia.
 
 👀 I’m interested in IT.
 
-🌱I’m currently learning mobile developpment.
+🔭 I’m currently working on mobile development.
+
+👯 I’m looking for an end of studies internship.
 
 💬 Ask me about React JS,node js,React Native
 
@@ -14,6 +18,7 @@ Connect with me:
       ![download](https://user-images.githubusercontent.com/83448722/190695939-49dee314-60d0-4861-a989-e0c1214bb59c.png)
 
 Languages and Tools:
+![cplusplus-original](https://user-images.githubusercontent.com/83448722/190698178-aba23111-0601-4a27-bad4-f7b6310fd886.svg)
 
 ![javascript-original](https://user-images.githubusercontent.com/83448722/190692239-10b7e1cf-9db1-4eb3-b571-fa8f0f3e5d7d.svg)
 ![html5-original-wordmark](https://user-images.githubusercontent.com/83448722/190692864-4ee7c6a0-dca5-448b-90e4-84f0b4fbab37.svg)
