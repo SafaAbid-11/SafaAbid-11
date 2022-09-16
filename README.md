@@ -4,8 +4,14 @@ I’m Safa Abid a Tunisian Software Engineering Student.
 
 👀 I’m interested in IT.
 
-🌱I’m currently learning Web developpment.
+🌱I’m currently learning mobile developpment.
 
+💬 Ask me about React JS,node js,React Native
+
+📫 How to reach me safaabid.12@gmail.com
+
+Connect with me:
+linkedin.com/in/https://www.linkedin.com/in/safa-abid/ 
 Languages and Tools:
 
 ![javascript-original](https://user-images.githubusercontent.com/83448722/190692239-10b7e1cf-9db1-4eb3-b571-fa8f0f3e5d7d.svg)
