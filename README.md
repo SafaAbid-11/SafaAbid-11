@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Safa Abid</h1>
+<br>
 <img  alt="coding" height="300" width=80% src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif">
 <br>
 <h1 align="center">Hi 👋, I'm Safa Abid</h1>
