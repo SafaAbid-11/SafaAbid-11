@@ -5,7 +5,7 @@
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safaabid-11" alt="safaabid-11" /></a> </p>
-<img  align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<!-- <img  align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
 - 🔭 I’m currently working on **Artificial intelligence**
 
 - 🌱 I’m currently learning **Agentic AI / RAG**
@@ -29,10 +29,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-
   <!-- ML / DL Frameworks -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
@@ -62,17 +58,17 @@
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" alt="mlflow" width="40" height="40"/>
   </a>
-  <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubeflow/icon/color/kubeflow-icon-color.svg" alt="kubeflow" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
-  </a>
+  </a> -->
 
 </p>
 
