@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safa Abid</h1>
 <h3 align="center">A Software Engineering Student from Tunisia.</h3>
 <br>
-<img  alt="coding" height="300" width=80% src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif">
+<img  alt="coding" height="300" width=80% src="https://cdn.mos.cms.futurecdn.net/osBMdrVYkfyWMZENMbihE8-1280-80.jpg">
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safaabid-11" alt="safaabid-11" /></a> </p>
