@@ -44,9 +44,9 @@
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   </a>
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://spacy.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" alt="spacy" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- MLOps / LLMOps -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
